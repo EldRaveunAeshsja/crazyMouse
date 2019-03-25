@@ -21,11 +21,13 @@ namespace CrazyMouse
             Content.RootDirectory = "Content";
         }
 
+
         /// <summary>
         ///  Bacground
         /// </summary>
         private Texture2D background;
-        private Rectangle backgroundR;
+        private float angle = 0;
+
 
         /// <summary>
         ///  crosshair
@@ -71,7 +73,6 @@ namespace CrazyMouse
 
             // TODO: use this.Content to load your game content here
             background = Content.Load<Texture2D>("image/background");
-            backgroundR = new Rectangle(0, 0, 800, 480);
 
             ps2Crosshair = Content.Load<Texture2D>("image/ps2Crosshair");
             ps2CrosshairR = new Rectangle(100, 0, 100, 100);
@@ -100,6 +101,7 @@ namespace CrazyMouse
         protected override void Update(GameTime gameTime)
         {
             score++;
+            angle += 0.01f;
 
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed || Keyboard.GetState().IsKeyDown(Keys.Escape))
                 Exit();
@@ -115,15 +117,28 @@ namespace CrazyMouse
         /// <param name="gameTime">Provides a snapshot of timing values.</param>
         protected override void Draw(GameTime gameTime)
         {
+
+            int toccard = 935;
+            int backgroundWwidth = toccard;
+            int backgroundHeiht = toccard;
+
+
             Color scoreColor = new Color(0, 255, 0);
             GraphicsDevice.Clear(Color.CornflowerBlue);
 
             // TODO: Add your drawing code here
             spriteBatch.Begin();
-            spriteBatch.Draw(background, backgroundR, Color.White);
+
+            Vector2 location = new Vector2(400, 240);
+            Rectangle sourceRectangle = new Rectangle(0, 0, backgroundWwidth, backgroundHeiht);
+            Vector2 origin = new Vector2(backgroundWwidth / 2 , backgroundHeiht / 2);
+
+            spriteBatch.Draw(background, location, sourceRectangle, Color.White, angle, origin, 1.0f, SpriteEffects.None, 1);
+
+
             spriteBatch.Draw(ps2Crosshair, ps2CrosshairR, Color.White);
             spriteBatch.Draw(target, targetR, Color.White);
-            spriteBatch.DrawString(font, "SCORE : " + score, new Vector2(100, 100), scoreColor);
+            spriteBatch.DrawString(font, "SCORE : " + score, new Vector2(599, 6), scoreColor);
             spriteBatch.End();
            
             base.Draw(gameTime);
