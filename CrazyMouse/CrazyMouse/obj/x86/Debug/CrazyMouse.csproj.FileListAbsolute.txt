@@ -21,3 +21,29 @@ D:\OneDrive\Projet\crazyMouse\CrazyMouse\CrazyMouse\obj\x86\Debug\CrazyMouse.csp
 D:\OneDrive\Projet\crazyMouse\CrazyMouse\CrazyMouse\obj\x86\Debug\CrazyMouse.csproj.CopyComplete
 D:\OneDrive\Projet\crazyMouse\CrazyMouse\CrazyMouse\obj\x86\Debug\CrazyMouse.exe
 D:\OneDrive\Projet\crazyMouse\CrazyMouse\CrazyMouse\obj\x86\Debug\CrazyMouse.pdb
+C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\2.1--C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\Content\image\background.xnb
+C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\2.1--C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\Content\image\ps2Crosshair.xnb
+C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\2.1--C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\Content\image\target.xnb
+C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\2.1--C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\CrazyMouse.exe
+C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\2.1--C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\CrazyMouse.pdb
+C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\2.1--C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\2.1--C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\2.1--C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\2.1--C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\2.1--C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\2.1--C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\2.1--C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\2.1--C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\2.1--C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\2.1--C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\2.1--C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\2.1--C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\2.1--C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\2.1--C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\2.1--C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\2.1--C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\2.1--C#\crazyMouse\CrazyMouse\CrazyMouse\obj\x86\Debug\CrazyMouse.csprojAssemblyReference.cache
+C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\2.1--C#\crazyMouse\CrazyMouse\CrazyMouse\obj\x86\Debug\CrazyMouse.csproj.CoreCompileInputs.cache
+C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\2.1--C#\crazyMouse\CrazyMouse\CrazyMouse\obj\x86\Debug\CrazyMouse.csproj.CopyComplete
+C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\2.1--C#\crazyMouse\CrazyMouse\CrazyMouse\obj\x86\Debug\CrazyMouse.exe
+C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\2.1--C#\crazyMouse\CrazyMouse\CrazyMouse\obj\x86\Debug\CrazyMouse.pdb

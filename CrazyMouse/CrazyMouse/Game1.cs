@@ -9,14 +9,22 @@ namespace CrazyMouse
     /// </summary>
     public class Game1 : Game
     {
+    
+
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
 
         public Game1()
         {
+
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
         }
+
+
+        Texture2D background;
+        Rectangle backgroundR;
+
 
         /// <summary>
         /// Allows the game to perform any initialization it needs to before starting to run.
@@ -38,9 +46,13 @@ namespace CrazyMouse
         protected override void LoadContent()
         {
             // Create a new SpriteBatch, which can be used to draw textures.
+            
+
             spriteBatch = new SpriteBatch(GraphicsDevice);
 
             // TODO: use this.Content to load your game content here
+            background = Content.Load<Texture2D>("image/background");
+            backgroundR = new Rectangle(0, 0, 800, 480);
         }
 
         /// <summary>
@@ -76,6 +88,9 @@ namespace CrazyMouse
             GraphicsDevice.Clear(Color.CornflowerBlue);
 
             // TODO: Add your drawing code here
+            spriteBatch.Begin();
+            spriteBatch.Draw(background, backgroundR, Color.White);
+            spriteBatch.End();
 
             base.Draw(gameTime);
         }
