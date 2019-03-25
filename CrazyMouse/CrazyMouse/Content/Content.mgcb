@@ -49,3 +49,10 @@
 /processorParam:TextureFormat=Color
 /build:image/target.png
 
+#begin sprite/File.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:PremultiplyAlpha=True
+/processorParam:TextureFormat=Compressed
+/build:sprite/File.spritefont;sprite/score.spritefont
+

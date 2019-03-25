@@ -21,10 +21,29 @@ namespace CrazyMouse
             Content.RootDirectory = "Content";
         }
 
+        /// <summary>
+        ///  Bacground
+        /// </summary>
+        private Texture2D background;
+        private Rectangle backgroundR;
 
-        Texture2D background;
-        Rectangle backgroundR;
+        /// <summary>
+        ///  crosshair
+        /// </summary>
+        private Texture2D ps2Crosshair;
+        private Rectangle ps2CrosshairR;
 
+        /// <summary>
+        ///  target
+        /// </summary>
+        private Texture2D target;
+        private Rectangle targetR;
+
+        /// <summary>
+        ///  Sprite
+        /// </summary>
+        private SpriteFont font;
+        int score = 0;
 
         /// <summary>
         /// Allows the game to perform any initialization it needs to before starting to run.
@@ -53,6 +72,15 @@ namespace CrazyMouse
             // TODO: use this.Content to load your game content here
             background = Content.Load<Texture2D>("image/background");
             backgroundR = new Rectangle(0, 0, 800, 480);
+
+            ps2Crosshair = Content.Load<Texture2D>("image/ps2Crosshair");
+            ps2CrosshairR = new Rectangle(100, 0, 100, 100);
+
+            target = Content.Load<Texture2D>("image/target");
+            targetR = new Rectangle(200, 0, 100, 100);
+
+            font = Content.Load<SpriteFont>("sprite/score");
+
         }
 
         /// <summary>
@@ -71,6 +99,8 @@ namespace CrazyMouse
         /// <param name="gameTime">Provides a snapshot of timing values.</param>
         protected override void Update(GameTime gameTime)
         {
+            score++;
+
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed || Keyboard.GetState().IsKeyDown(Keys.Escape))
                 Exit();
 
@@ -85,13 +115,17 @@ namespace CrazyMouse
         /// <param name="gameTime">Provides a snapshot of timing values.</param>
         protected override void Draw(GameTime gameTime)
         {
+            Color scoreColor = new Color(0, 255, 0);
             GraphicsDevice.Clear(Color.CornflowerBlue);
 
             // TODO: Add your drawing code here
             spriteBatch.Begin();
             spriteBatch.Draw(background, backgroundR, Color.White);
+            spriteBatch.Draw(ps2Crosshair, ps2CrosshairR, Color.White);
+            spriteBatch.Draw(target, targetR, Color.White);
+            spriteBatch.DrawString(font, "SCORE : " + score, new Vector2(100, 100), scoreColor);
             spriteBatch.End();
-
+           
             base.Draw(gameTime);
         }
     }

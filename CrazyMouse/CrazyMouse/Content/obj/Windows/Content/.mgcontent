@@ -7,10 +7,12 @@
     <File>C:/Users/Arnaud Gonin/OneDrive/Documents/1---PostBac/3--- B2/1---Dev Lourd/2.1--C#/crazyMouse/CrazyMouse/CrazyMouse/Content/image/background.jpg</File>
     <File>C:/Users/Arnaud Gonin/OneDrive/Documents/1---PostBac/3--- B2/1---Dev Lourd/2.1--C#/crazyMouse/CrazyMouse/CrazyMouse/Content/image/ps2Crosshair.png</File>
     <File>C:/Users/Arnaud Gonin/OneDrive/Documents/1---PostBac/3--- B2/1---Dev Lourd/2.1--C#/crazyMouse/CrazyMouse/CrazyMouse/Content/image/target.png</File>
+    <File>C:/Users/Arnaud Gonin/OneDrive/Documents/1---PostBac/3--- B2/1---Dev Lourd/2.1--C#/crazyMouse/CrazyMouse/CrazyMouse/Content/sprite/File.spritefont</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
+    <File>sprite/score.spritefont</File>
   </DestFiles>
 </SourceFileCollection>
