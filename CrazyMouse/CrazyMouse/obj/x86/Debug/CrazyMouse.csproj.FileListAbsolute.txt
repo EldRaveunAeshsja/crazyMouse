@@ -49,3 +49,7 @@ C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\2.1--
 C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\2.1--C#\crazyMouse\CrazyMouse\CrazyMouse\obj\x86\Debug\CrazyMouse.pdb
 C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\2.1--C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\Content\sprite\File.xnb
 C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\2.1--C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\Content\sprite\score.xnb
+C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\2.1--C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\Content\Fonts\Font.xnb
+C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\2.1--C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\Content\Controls\bouton.xnb
+C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\2.1--C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\Content\Controls\button.xnb
+C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\2.1--C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\Content\Controls\kglkjh.xnb

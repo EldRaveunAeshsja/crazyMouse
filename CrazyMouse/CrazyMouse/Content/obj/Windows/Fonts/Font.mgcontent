@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/Arnaud Gonin/OneDrive/Documents/1---PostBac/3--- B2/1---Dev Lourd/2.1--C#/crazyMouse/CrazyMouse/CrazyMouse/Content/sprite/File.spritefont</SourceFile>
-  <SourceTime>2019-03-25T16:38:46.5351986+01:00</SourceTime>
-  <DestFile>C:/Users/Arnaud Gonin/OneDrive/Documents/1---PostBac/3--- B2/1---Dev Lourd/2.1--C#/crazyMouse/CrazyMouse/CrazyMouse/Content/bin/Windows/sprite/score.xnb</DestFile>
-  <DestTime>2019-04-01T17:48:42.2427808+02:00</DestTime>
+  <SourceFile>C:/Users/Arnaud Gonin/OneDrive/Documents/1---PostBac/3--- B2/1---Dev Lourd/2.1--C#/crazyMouse/CrazyMouse/CrazyMouse/Content/Fonts/File.spritefont</SourceFile>
+  <SourceTime>2018-09-23T23:55:46+02:00</SourceTime>
+  <DestFile>C:/Users/Arnaud Gonin/OneDrive/Documents/1---PostBac/3--- B2/1---Dev Lourd/2.1--C#/crazyMouse/CrazyMouse/CrazyMouse/Content/bin/Windows/Fonts/Font.xnb</DestFile>
+  <DestTime>2019-04-01T17:48:41.9116548+02:00</DestTime>
   <Importer>FontDescriptionImporter</Importer>
   <ImporterTime>2018-09-23T23:55:52+02:00</ImporterTime>
   <Processor>FontDescriptionProcessor</Processor>
