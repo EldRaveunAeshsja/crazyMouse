@@ -46,12 +46,14 @@ namespace CrazyMouse
         /// LoadContent will be called once per game and is the place to load
         /// all of your content.
         /// </summary>
+        /// 
+        
         protected override void LoadContent()
         {
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
-
             // TODO: use this.Content to load your game content here
+            this.Content.Load<Texture2D>("image/background");
             _currentState = new MenuState(this, graphics.GraphicsDevice, Content);
         }
 
