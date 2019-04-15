@@ -33,7 +33,7 @@ namespace CrazyMouse.States
                 Text = "Load Game",
             };
 
-            loadGameButton.Click += QuitgameButton_Click;
+            loadGameButton.Click += LoadGameButton_Click;
 
             var quitgameButton = new Button(buttonTexture, buttonFont)
             {
@@ -47,7 +47,7 @@ namespace CrazyMouse.States
             {
                 newGameButton,
                 loadGameButton,
-                quitgameButton
+                quitgameButton,
             };
         }
 
