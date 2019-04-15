@@ -53,3 +53,35 @@ C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\2.1--
 C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\2.1--C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\Content\Controls\bouton.xnb
 C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\2.1--C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\Content\Controls\button.xnb
 C:\Users\Arnaud Gonin\OneDrive\Documents\1---PostBac\3--- B2\1---Dev Lourd\2.1--C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\Content\Controls\kglkjh.xnb
+D:\Bureau\Projet C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\Content\sprite\File.xnb
+D:\Bureau\Projet C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\Content\Controls\bouton.xnb
+D:\Bureau\Projet C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\Content\sprite\score.xnb
+D:\Bureau\Projet C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\Content\Fonts\Font.xnb
+D:\Bureau\Projet C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\Content\image\background.xnb
+D:\Bureau\Projet C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\Content\image\ps2Crosshair.xnb
+D:\Bureau\Projet C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\Content\image\target.xnb
+D:\Bureau\Projet C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\Content\Controls\button.xnb
+D:\Bureau\Projet C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\Content\Controls\kglkjh.xnb
+D:\Bureau\Projet C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\CrazyMouse.exe
+D:\Bureau\Projet C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\CrazyMouse.pdb
+D:\Bureau\Projet C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Bureau\Projet C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Bureau\Projet C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\SharpDX.dll
+D:\Bureau\Projet C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Bureau\Projet C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Bureau\Projet C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Bureau\Projet C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Bureau\Projet C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Bureau\Projet C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Bureau\Projet C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Bureau\Projet C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\SharpDX.xml
+D:\Bureau\Projet C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Bureau\Projet C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Bureau\Projet C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Bureau\Projet C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Bureau\Projet C#\crazyMouse\CrazyMouse\CrazyMouse\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Bureau\Projet C#\crazyMouse\CrazyMouse\CrazyMouse\obj\x86\Debug\CrazyMouse.csprojAssemblyReference.cache
+D:\Bureau\Projet C#\crazyMouse\CrazyMouse\CrazyMouse\obj\x86\Debug\CrazyMouse.csproj.CoreCompileInputs.cache
+D:\Bureau\Projet C#\crazyMouse\CrazyMouse\CrazyMouse\obj\x86\Debug\CrazyMouse.csproj.CopyComplete
+D:\Bureau\Projet C#\crazyMouse\CrazyMouse\CrazyMouse\obj\x86\Debug\CrazyMouse.exe
+D:\Bureau\Projet C#\crazyMouse\CrazyMouse\CrazyMouse\obj\x86\Debug\CrazyMouse.pdb

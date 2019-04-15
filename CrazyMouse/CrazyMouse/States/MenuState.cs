@@ -25,7 +25,7 @@ namespace CrazyMouse.States
                 Text = "New Game",
             };
 
-            newGameButton.Click += newGameButton_Click;
+            newGameButton.Click += NewGameButton_Click;
 
             var loadGameButton = new Button(buttonTexture, buttonFont)
             {
@@ -33,7 +33,7 @@ namespace CrazyMouse.States
                 Text = "Load Game",
             };
 
-            loadGameButton.Click += quitgameButton_Click;
+            loadGameButton.Click += QuitgameButton_Click;
 
             var quitgameButton = new Button(buttonTexture, buttonFont)
             {
@@ -41,7 +41,7 @@ namespace CrazyMouse.States
                 Text = "Quit",
             };
 
-            quitgameButton.Click += quitgameButton_Click;
+            quitgameButton.Click += QuitgameButton_Click;
 
             _components = new List<Component>()
             {
@@ -61,12 +61,12 @@ namespace CrazyMouse.States
             spriteBatch.End();
         }
 
-        private void loadGameButton_Click(object sender, EventArgs e)
+        private void LoadGameButton_Click(object sender, EventArgs e)
         {
             Console.WriteLine("Load Game");
         }
 
-        private void newGameButton_Click(object sender, EventArgs e)
+        private void NewGameButton_Click(object sender, EventArgs e)
         {
             // Load new State
             _game.ChangeState(new GameState(_game, _graphicsDevice, _content));
@@ -83,7 +83,7 @@ namespace CrazyMouse.States
                 component.Update(gameTime);
         }
 
-        private void quitgameButton_Click(object sender, EventArgs e)
+        private void QuitgameButton_Click(object sender, EventArgs e)
         {
             _game.Exit();
         }

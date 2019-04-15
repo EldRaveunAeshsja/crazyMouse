@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/Bureau/Projet C#/crazyMouse/CrazyMouse/CrazyMouse/Content/Controls/Button.png","D:/Bureau/Projet C#/crazyMouse/CrazyMouse/CrazyMouse/Content/bin/Windows/Content/Controls/Button.xnb","TextureProcessor","Texture2DContent",279,15085,0
+"D:/Bureau/Projet C#/crazyMouse/CrazyMouse/CrazyMouse/Content/image/ps2Crosshair.png","D:/Bureau/Projet C#/crazyMouse/CrazyMouse/CrazyMouse/Content/bin/Windows/Content/image/ps2Crosshair.xnb","TextureProcessor","Texture2DContent",254,16469,0
