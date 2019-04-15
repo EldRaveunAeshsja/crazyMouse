@@ -70,8 +70,9 @@ namespace CrazyMouse.Controls
 
             if (!string.IsNullOrEmpty(Text))
             {
+
                 var x = (Rectangle.X + (Rectangle.Width / 2) - (_font.MeasureString(Text).X / 2));
-                var y = (Rectangle.Y + (Rectangle.Width / 2) - (_font.MeasureString(Text).Y / 2));
+                var y = (Rectangle.Y + (Rectangle.Height / 2) - (_font.MeasureString(Text).Y / 2));
 
                 spriteBatch.DrawString(_font, Text, new Vector2(x, y), Pencolour);
             }
